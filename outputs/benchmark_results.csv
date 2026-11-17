@@ -1,0 +1,4 @@
+Train_Fraction,Train_Rows,Spark_Master,Execution_Time_Sec,ROC_AUC
+0.25,3044,local[2],4.34,0.9881
+0.5,6120,local[2],4.29,0.9785
+1.0,12110,local[2],4.06,0.9858
